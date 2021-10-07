@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-sidebar/static/css/main.124ee991.chunk.css",
+    "main.js": "/react-sidebar/static/js/main.4989cf5d.chunk.js",
+    "main.js.map": "/react-sidebar/static/js/main.4989cf5d.chunk.js.map",
+    "runtime-main.js": "/react-sidebar/static/js/runtime-main.20c7cbcd.js",
+    "runtime-main.js.map": "/react-sidebar/static/js/runtime-main.20c7cbcd.js.map",
+    "static/js/2.b2e5604b.chunk.js": "/react-sidebar/static/js/2.b2e5604b.chunk.js",
+    "static/js/2.b2e5604b.chunk.js.map": "/react-sidebar/static/js/2.b2e5604b.chunk.js.map",
+    "index.html": "/react-sidebar/index.html",
+    "static/css/main.124ee991.chunk.css.map": "/react-sidebar/static/css/main.124ee991.chunk.css.map",
+    "static/js/2.b2e5604b.chunk.js.LICENSE.txt": "/react-sidebar/static/js/2.b2e5604b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20c7cbcd.js",
+    "static/js/2.b2e5604b.chunk.js",
+    "static/css/main.124ee991.chunk.css",
+    "static/js/main.4989cf5d.chunk.js"
+  ]
+}
